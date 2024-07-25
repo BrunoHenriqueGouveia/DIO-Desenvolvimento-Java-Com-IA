@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Iphone.java&apos; to &apos;ComponenteIPhone/src/implementacao&apos;&#x0D;&#x0A;- Original project: &apos;ComponenteIPhone&apos;&#x0D;&#x0A;- Destination element: &apos;ComponenteIPhone/src/implementacao&apos;&#x0D;&#x0A;- Elemento original: &apos;Iphone.java&apos;&#x0D;&#x0A;- Atualizar referências para elemento recriado" description="Move compilation unit" destination="/src&lt;implementacao" element1="/src&lt;{Iphone.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1721925431954" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\bruno\OneDrive\Documentos\Dio\DIO-Desenvolvimento-Java-Com-IA\.metadata\.plugins\org.eclipse.jdt.core
+3881243112.index
+570037819.index
+1865797976.index
